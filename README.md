@@ -3,6 +3,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jingyu9804&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingyu9804&show_icons=true&theme=radical)
+
 [![My Tech Blog Badge](http://img.shields.io/badge/-Jingyu's%20Tech%20blog-purple?style=flat-square&logo=tistory&link=https://kimjingyu.tistory.com/)](https://kimjingyu.tistory.com/) 
 
 
