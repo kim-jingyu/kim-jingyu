@@ -6,7 +6,7 @@
 [![My Tech Blog Badge](http://img.shields.io/badge/-Jingyu's%20Tech%20blog-purple?style=flat-square&logo=tistory&link=https://kimjingyu.tistory.com/)](https://kimjingyu.tistory.com/) 
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
 <!--
 **jingyu9804/jingyu9804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
