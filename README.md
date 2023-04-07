@@ -1,14 +1,14 @@
-### Hi I'm Jingyu!! 😄
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fjingyu9804&count_bg=%23555555&title_bg=%23555555&icon=java.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi I'm JinGyu!! 😄
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fkim-jingyu&count_bg=%23555555&title_bg=%23555555&icon=java.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jingyu9804&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jingyu&show_icons=true&theme=radical)
 
 [![My Tech Blog Badge](http://img.shields.io/badge/-Jingyu's%20Tech%20blog-purple?style=flat-square&logo=tistory&link=https://kimjingyu.tistory.com/)](https://kimjingyu.tistory.com/) 
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
 <!--
-**jingyu9804/jingyu9804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kim-jingyu/kim-jingyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
