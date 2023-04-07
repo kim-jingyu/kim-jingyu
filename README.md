@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jingyu&show_icons=true&theme=radical)
 
-[![My Tech Blog Badge](http://img.shields.io/badge/-Jingyu's%20Tech%20blog-purple?style=flat-square&logo=tistory&link=https://kimjingyu.tistory.com/)](https://kimjingyu.tistory.com/) 
+[![My Tech Blog Badge](http://img.shields.io/badge/-JinGyu's%20Tech%20blog-purple?style=flat-square&logo=tistory&link=https://kimjingyu.tistory.com/)](https://kimjingyu.tistory.com/) 
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
