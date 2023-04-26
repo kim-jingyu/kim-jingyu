@@ -3,6 +3,8 @@
 
 ![JINGYU's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-jingyu&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jingyu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![My Tech Blog Badge](http://img.shields.io/badge/-JinGyu's%20Tech%20blog-purple?style=flat-square&logo=tistory&link=https://kimjingyu.tistory.com/)](https://kimjingyu.tistory.com/) 
 
 
