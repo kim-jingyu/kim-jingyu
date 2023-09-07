@@ -1,5 +1,8 @@
 ### Hi I'm JinGyu!! 😄
-Was mich nicht umbringt macht mich staerker. - Friedrich Nietzsche
+
+오늘은 오류없이 기능이 잘 동작하고,
+내일 큰 노력없이 잘 읽어지고,
+기능 수정과 추가가 쉬운 코드를 만들자.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fkim-jingyu&count_bg=%23555555&title_bg=%23555555&icon=java.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
