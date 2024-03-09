@@ -20,7 +20,6 @@
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">&nbsp
   <img alt="Static Badge" src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=white">&nbsp
-  <img alt="Static Badge" src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=java&logoColor=white">&nbsp
 </div>
 
 <br>
