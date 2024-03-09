@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <div style="margin: 50px;">
+  <div style="margin-botton: 10px;">
     <a href="https://kimjingyu.tistory.com/"><img src="http://img.shields.io/badge/-JinGyu&#39;s%20Tech%20blog-purple?style=flat-square&amp;logo=tistory&amp;link=https://kimjingyu.tistory.com/" alt="My Tech Blog Badge"></a>
     <a href="https://www.notion.so/9ae450f4fb834b88add704258efac507?pvs=4"><img src="http://img.shields.io/badge/-진규의%20개발%20일기장-black?style=flat-square&amp;logo=notion&amp;link=https://www.notion.so/9ae450f4fb834b88add704258efac507?pvs=4" alt="My Tech Blog Badge"></a>
   </div>
