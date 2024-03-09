@@ -11,7 +11,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swc05161)](https://solved.ac/swc05161/)
 
 [![My Tech Blog Badge](http://img.shields.io/badge/-JinGyu's%20Tech%20blog-purple?style=flat-square&logo=tistory&link=https://kimjingyu.tistory.com/)](https://kimjingyu.tistory.com/) 
-
+[![My Tech Blog Badge](http://img.shields.io/badge/-진규의%20개발%20일기장-black?style=flat-square&logo=tistory&link=https://www.notion.so/9ae450f4fb834b88add704258efac507?pvs=4)](https://www.notion.so/9ae450f4fb834b88add704258efac507?pvs=4)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
 <!--
