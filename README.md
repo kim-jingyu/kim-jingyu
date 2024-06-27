@@ -67,7 +67,6 @@
 <br>
 
 <div align="center">
-  <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kim-jingyu&amp;layout=compact" alt="Top Langs"></a>
   <a href="https://solved.ac/swc05161/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=swc05161" alt="Solved.ac Profile"></a></p>
 </div>
 
