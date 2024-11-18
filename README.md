@@ -18,50 +18,22 @@
 <h3 align="center">💻 My Tech Stack</h2>
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/spring_data_jpa-%236DB33F.svg?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-3776AB?style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
 <br>
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=MySQl&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/jpa-%23003459?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/query_dsl-%23036CB5?style=for-the-badge">
 </div>
 <br>
-<div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/centos-%23262577?style=for-the-badge&logo=centos&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/apache-%23D22128?style=for-the-badge&logo=Apache&logoColor=white">
-</div>
-<br>
-<div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/AWS_EC2-%23FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/AWS_RDS-%23527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/AWS_S3-%23569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
-</div>
-<br>
-<div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=Github&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/github_actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white">
-</div>
-<br>
-<div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/spring_docs-%236DB33F.svg?style=for-the-badge">
-</div>
 
 <h3 align="center">⚙️ My Tools</h2>
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/intellij_idea-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/vim-%23019733?style=for-the-badge&logo=vim&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/vs_code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-</div>
-
-<br>
-<div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/kali_linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/burp_suite-%23FF6633?style=for-the-badge&logo=burpsuite&logoColor=white">
 </div>
 
 <br>
