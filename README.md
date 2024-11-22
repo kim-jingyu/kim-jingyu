@@ -26,7 +26,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=MySQl&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/jpa-%23003459?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=#59666C">
 </div>
 <br>
 
