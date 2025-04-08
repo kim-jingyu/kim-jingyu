@@ -1,6 +1,5 @@
 <div>
   <h2>더나은 Engineer로 성장중인 김진규입니다.</h2>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fkim-jingyu&amp;count_bg=%23555555&amp;title_bg=%23555555&amp;icon=bugatti.svg&amp;icon_color=%23E7E7E7&amp;title=visitors&amp;edge_flat=false" alt="Hits"></a> 
 </div>
 <br>
 
