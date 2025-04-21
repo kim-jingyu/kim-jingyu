@@ -6,7 +6,7 @@
 <div align="center">
   <div>
     <a href="https://kimjingyu.tistory.com/"><img src="http://img.shields.io/badge/-JinGyu&#39;s%20Tech%20blog-purple?style=flat-square&amp;logo=tistory&amp;link=https://kimjingyu.tistory.com/" alt="My Tech Blog Badge"></a>
-    <a href="https://www.jingyulog.store/"><img src="http://img.shields.io/badge/-진규의%20개발%20일기장-black?style=flat-square&amp;logo=tesla&amp;link=https://www.jingyulog.store/" alt="My Tech Blog Badge"></a>
+    <a href="https://www.jingyulog.store/"><img src="http://img.shields.io/badge/-진규의%20블로그😜-black?style=flat-square&amp;logo=tesla&amp;link=https://www.jingyulog.store/" alt="My Tech Blog Badge"></a>
   </div>
   <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Hi+Melody&size=30&pause=1000&color=F7EE67&random=false&width=435&lines=%EC%98%A4%EB%8A%98+%EC%98%A4%EB%A5%98%EC%97%86%EC%9D%B4+%EA%B8%B0%EB%8A%A5%EC%9D%B4+%EC%9E%98+%EB%8F%99%EC%9E%91%ED%95%98%EA%B3%A0%2C;%EB%82%B4%EC%9D%BC%EC%9D%80+%ED%81%B0+%EB%85%B8%EB%A0%A5%EC%97%86%EC%9D%B4+%EC%9E%98+%EC%9D%BD%EC%96%B4%EC%A7%80%EB%A9%B0%2C;%EA%B8%B0%EB%8A%A5+%EC%88%98%EC%A0%95%EA%B3%BC+%EC%B6%94%EA%B0%80%EB%8A%94+%EC%89%AC%EC%9A%B4+%EC%BD%94%EB%93%9C%EB%A5%BC+%EB%A7%8C%EB%93%A4%EC%9E%90." alt="Typing SVG" /></a>
