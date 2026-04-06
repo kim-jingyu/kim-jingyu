@@ -16,15 +16,20 @@
 
 <h3 align="center">💻 My Tech Stack</h2>
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-3776AB?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%239220D9?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-3776AB?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
+<br>
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/nestjs-%23F50C37.svg?style=for-the-badge&logo=nestjs&logoColor=white">
 </div>
 <br>
 <div align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=MySQl&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%233776AB?style=for-the-badge&logo=PostgreSQL&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=#59666C">
 </div>
 <br>
